@@ -1,4 +1,4 @@
-# NYC Taxi Data Analysis1 🚕📊
+# NYC Yellow Taxi Data Analysis1 🚕📊
 
 ## Overview  
 This project analyzes New York City Taxi & Limousine Commission (TLC) trip data. The dataset includes details about trip distances, fares, passenger counts, tips, payment methods, and vendors. The goal of this analysis is to clean the data, explore patterns, and generate insights that can help taxi operators, analysts, and the NYC TLC understand ride behavior and fare structures.
